@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cedric Thomas Rafanan</h1>
+<h1 align="center">Hi 👋, I'm Cedric!</h1>
 
 <p align="center">
   <a href="https://cedraf.vercel.app">
