@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://cedraf.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Developer;Full-Stack+Web+%26+Mobile;AI+%2F+RAG+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Developer;Full-Stack+Web" alt="Typing SVG" />
   </a>
 </p>
 
