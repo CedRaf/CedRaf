@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://cedraf.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Developer;Full-Stack+Web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Developer;Full-Stack+Web+%26+Mobile;AI+%2F+RAG+Enthusiast" alt="Software Developer | Full-Stack Web &amp; Mobile | AI / RAG Enthusiast" />
   </a>
 </p>
 
@@ -11,10 +11,6 @@
   <a href="https://linkedin.com/in/cedric-rafanan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:cedricrafanan27@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://ieeexplore.ieee.org/document/11467963"><img src="https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CedRaf&label=Profile%20views&color=58A6FF&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -75,23 +71,6 @@
 | [**Event Management System**](https://github.com/CedRaf/Event-Management-System) | Full-stack event management platform streamlining event scheduling and user access, secured with Google Sign-In authentication. | `React` `Node.js` `Express` `Prisma` `MySQL` |
 | [**Mobile E-Commerce App**](https://github.com/graysonLL/MobDev-Final-Project) | Mobile e-commerce front-end focused on responsive product browsing and smooth user interaction. | `React Native` `Expo` |
 | [**Inventory Management System**](https://github.com/CedRaf/Inventory-Management-System-Web2) | Inventory system built to improve stock visibility and streamline day-to-day inventory operations. | `React` `Node.js` `Express` `Prisma` `MySQL` |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CedRaf&theme=tokyonight" alt="GitHub stats" />
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CedRaf&theme=tokyonight" alt="Top languages by commit" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CedRaf&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CedRaf&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</p>
 
 ---
 
